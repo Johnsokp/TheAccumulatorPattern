@@ -415,7 +415,7 @@ def draw_lines_from_rectangles(rectangle1, rectangle2, n, window):
     centery = (point1.y + point2.y) / 2
     center2 = rg.Point(centerx, centery)
 
-    # Draw Lines
+    # Draw  Lines
     count = 1
     point1 = center1
     point2 = center2
